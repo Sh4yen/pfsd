@@ -1,2 +1,2 @@
 # Pressurized Fuel System Designer
-Check out the notebook for infos
+Check out the notebook (code.ipynb) for infos.
