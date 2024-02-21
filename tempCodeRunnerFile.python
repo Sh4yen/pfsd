@@ -1,0 +1,13 @@
+import numpy as np
+
+# Define float start and endpoint
+start_value = 0.5
+end_value = 2.5
+
+# Number of samples
+num_samples = 10
+
+# Generate an array of evenly spaced values
+result = np.linspace(start_value, end_value, num_samples)
+
+print(result)
